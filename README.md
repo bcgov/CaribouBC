@@ -1,6 +1,15 @@
 # CaribouBC
 
 > Caribou Population Forecasting
+[![img](https://img.shields.io/badge/Lifecycle-Retired-d45500)](https://github.com/bcgov/repomountie/blob/master/doc/lifecycle-badges.md)
+
+This fork is retired.
+
+Please npw refer to [Wildlift application](https://abbiodiversity.shinyapps.io/WildLift/) and [Nagy-Reis et al. 2020](https://www.frontiersin.org/articles/10.3389/fevo.2020.564508/full). 
+
+
+
+
 
 [![Linux build
 status](https://travis-ci.org/psolymos/CaribouBC.svg?branch=master)](https://travis-ci.org/psolymos/CaribouBC)
@@ -27,7 +36,7 @@ remotes::install_github("psolymos/CaribouBC")
 See user visible changes in the [NEWS](NEWS.md) file.
 
 ## Usage
-[![img](https://img.shields.io/badge/Lifecycle-Stable-97ca00)](https://github.com/bcgov/repomountie/blob/master/doc/lifecycle-badges.md)
+
 
 ``` r
 library(CaribouBC)
