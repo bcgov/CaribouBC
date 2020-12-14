@@ -27,6 +27,7 @@ remotes::install_github("psolymos/CaribouBC")
 See user visible changes in the [NEWS](NEWS.md) file.
 
 ## Usage
+[![img](https://img.shields.io/badge/Lifecycle-Stable-97ca00)](https://github.com/bcgov/repomountie/blob/master/doc/lifecycle-badges.md)
 
 ``` r
 library(CaribouBC)
