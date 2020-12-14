@@ -5,7 +5,7 @@
 
 This fork is retired.
 
-Please npw refer to [Wildlift application](https://abbiodiversity.shinyapps.io/WildLift/) and [Nagy-Reis et al. 2020](https://www.frontiersin.org/articles/10.3389/fevo.2020.564508/full). 
+Please now refer to [Wildlift application](https://abbiodiversity.shinyapps.io/WildLift/) and [Nagy-Reis et al. 2020](https://www.frontiersin.org/articles/10.3389/fevo.2020.564508/full). 
 
 
 
